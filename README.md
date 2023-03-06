@@ -27,7 +27,7 @@
 ### Courses:
 1. [Neural Networks and Deep Learning]()  
 2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]()  
-3. [Structuring Machine Learning Projects]()  
+3. [Structuring Machine Learning Projects](https://github.com/irasalsabila/DeepLearning.AI-Deep-Learning-Specialization/tree/main/03%20-%20Structuring%20Machine%20Learning%20Projects)  
 4. [Convolutional Neural Networks]()  
 5. [Sequence Models]()
 
@@ -43,35 +43,35 @@
 1. Neural Networks and Deep Learning
     <details> <summary>Show Certificate</summary><p> 
       
-    [<img src="" />](https://www.coursera.org/account/accomplishments/certificate/6V4K8734Q5EX)
+    [<img src="" />](https://www.coursera.org/account/accomplishments/certificate/)
       
     </p></details>
 
 2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
     <details> <summary>Show Certificate</summary><p> 
       
-    [<img src="" />](https://www.coursera.org/account/accomplishments/certificate/QKUFD9KKZH85)
+    [<img src="" />](https://www.coursera.org/account/accomplishments/certificate/)
       
     </p></details>
 
 3. Structuring Machine Learning Projects
     <details> <summary>Show Certificate</summary><p> 
       
-    [<img src="" />](https://www.coursera.org/account/accomplishments/certificate/PWFREEZCWYV7)
+    [<img src="https://github.com/irasalsabila/DeepLearning.AI-Deep-Learning-Specialization/blob/main/misc/03%20-%20Coursera%20AKYGTLPXNGG5.jpg" />](https://www.coursera.org/account/accomplishments/certificate/AKYGTLPXNGG5)
       
     </p></details>
 
 4. Convolutional Neural Networks
     <details> <summary>Show Certificate</summary><p> 
       
-    [<img src="" />](https://www.coursera.org/account/accomplishments/certificate/F2UNKHDTHXLP)
+    [<img src="" />](https://www.coursera.org/account/accomplishments/certificate/)
       
     </p></details>
 
 5. Sequence Models
    <details> <summary>Show Certificate</summary><p> 
       
-    [<img src="" />](https://www.coursera.org/account/accomplishments/certificate/F2UNKHDTHXLP)
+    [<img src="" />](https://www.coursera.org/account/accomplishments/certificate/)
       
     </p></details>
 
